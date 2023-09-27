@@ -1,0 +1,21 @@
+.search-bar{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+        }
+input[type=text]{
+  background-color: lightgray;
+  border: none;
+  height: 3rem;
+  border-radius: 4rem;
+  width: 25rem;
+  cursor: text;
+  padding: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+input[type=text]:hover{
+    opacity: 0.8;
+}
+   
